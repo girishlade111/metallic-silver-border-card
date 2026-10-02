@@ -15,7 +15,7 @@
 
 This project showcases a premium **metallic silver border card** component with a mesmerizing electric border animation effect. The card features a sophisticated glass-morphism design with animated SVG filters that create a dynamic, electrified silver border effect.
 
-**Live Demo:** [https://vercel.com/gileb64375-5584s-projects/v0-metallic-silver-border-card](https://vercel.com/gileb64375-5584s-projects/v0-metallic-silver-border-card)
+**Live Demo:** [https://metallic-silver-border-card.pages.dev](https://metallic-silver-border-card.pages.dev) (the Vercel link above was the original v0 preview and may be unavailable)
 
 ---
 
@@ -487,7 +487,11 @@ npm run start
 
 ## License
 
-This project is private and proprietary. All rights reserved.
+This project is free to use and adapt.
+
+---
+
+Built by [Girish Lade](https://ladestack.in)
 
 ---
 
